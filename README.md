@@ -27,7 +27,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/Chinu1407/Weather-Forecasting-APP.git) :point_left:
+[Live Demo Link](https://github.com/Chinu1407/Weather-Forecasting-APP.JS) :point_left:
 
 ## Getting Started
 - Follow the live demo link and enjoy the site.
@@ -52,7 +52,7 @@ Clone the repository unto your local machine cd to the folder.
 
 ## Author
 
-👤 SAMIR PAUL
+👤 Chinmay Yadav
 - Github: [@Chinmay Yadav](https://github.com/Chinu1407/Weather-Forecasting-APP.git)  
 - Linkedin: [chinmay yadav](https://www.linkedin.com/in/chinmay-yadav-90387a194/) 
 
