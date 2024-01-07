@@ -27,7 +27,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/Chinu1407/Weather-Forecasting-APP.JS) :point_left:
+[Live Demo Link](https://chinu1407.github.io/WeatherApp/) :point_left:
 
 ## Getting Started
 - Follow the live demo link and enjoy the site.
